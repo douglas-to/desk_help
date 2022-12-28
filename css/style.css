@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.myBtn{
+	width:345px;
+}
+
+.icon-brand{
+	width:35px;
+	height:35px;
+	margin-left:5px;
+}
+
+.mt{
+	margin-top:10px;
+}
+
+/*style da pagina home.php*/
+
+.card-home{
+	padding:30px 0 0 0;
+	width:100%;
+	margin:0 auto;
+}
+
+.icon-abrir-chamada{
+	width:70px;
+	height:70px;
+}
+
+.icon-consultar-chamado{
+	width:70px;
+	height:70px;
+}
+
+/*fim style da pagina home.php*/
