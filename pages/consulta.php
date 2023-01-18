@@ -5,7 +5,7 @@
   include("menu.php");
 
   $chamadas = array();
-  $arquivo = fopen('../../../../arquivos_seguros_app/arquivo.hd', 'r');
+  $arquivo = fopen('../arquivo.hd', 'r');
 
   while(!feof($arquivo)){
     $registro = fgets($arquivo);
